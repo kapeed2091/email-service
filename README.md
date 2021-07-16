@@ -2,7 +2,7 @@
 We use [serverless](https://www.serverless.com/) to deploy code to AWS Lambda
 
 ## Install Serverless
-There are multiple ways to install serverless package. 
+There are several ways to install serverless package. 
 
 Refer https://www.serverless.com/framework/docs/getting-started/
 
